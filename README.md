@@ -16,4 +16,5 @@
  	<a href="" target="_blank"><img alt="JavaScript logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </div>
   
-   ![Snake animation](https://github.com/theodomi/theodomi/blob/output/github-contribution-grid-snake.svg)
+  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
