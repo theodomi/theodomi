@@ -15,6 +15,5 @@
   <a href="" target="_blank"><img alt="CSS logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
  	<a href="" target="_blank"><img alt="JavaScript logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </div>
-  
-  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
   ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
