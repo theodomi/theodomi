@@ -4,7 +4,7 @@
 - 🌱 Aprendendo JavaScript.
 - 😄 Pronomes: Ele/Elu
 - 💬 Também pode me chamar de 'Dom'!
-- 💼 Acesse meu outro portfólio em: <a href="https://arquivo.dev/t2/domi/" target="_blank">https://arquivo.dev/t2/domi/</a>
+- 💼 Acesse meu outro portfólio em: <a href="https://arquivo.dev/t2/domi/" target="_blank">https://senacscs.github.io/t2/domi/</a>
 
 <div align="left">
   <a href="https://github.com/theodomi">
